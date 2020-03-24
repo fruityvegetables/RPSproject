@@ -1,8 +1,8 @@
 ## jQuery Calculator Group Project
 * We are working in groups to get a calculator functioning!
 * Janet, Robyn, and Garrett
-### Commit history
-* initial commit for the files
+### Questions to ask ourselves...
+
 * How will you capture button clicks?
 * What will you do with the numbers clicked?
 * What will you do when the operator is clicked?
